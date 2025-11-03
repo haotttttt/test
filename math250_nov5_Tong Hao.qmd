@@ -80,7 +80,9 @@ addmargins(species_island)
 ```
 
 ## Problem 4
-
+git remote add origin https://github.com/haotttttt/math250_nov5_Tong-Hao.git
+git branch -M main
+git push -u origin main
 use_github()
 
 
